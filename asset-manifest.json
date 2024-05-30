@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Codes/static/css/main.cfd378c5.css",
-    "main.js": "/React-Codes/static/js/main.f99d300f.js",
+    "main.css": "/React-Codes/static/css/main.922657dd.css",
+    "main.js": "/React-Codes/static/js/main.2a36ba5b.js",
     "static/media/gyros3.jpg": "/React-Codes/static/media/gyros3.d4cb6be5b32d44ad2af6.jpg",
     "static/media/pizza4.jpg": "/React-Codes/static/media/pizza4.f769a2c384f997f7de2a.jpg",
     "static/media/pizza3.jpg": "/React-Codes/static/media/pizza3.12966f5f88126ffd18ba.jpg",
@@ -30,11 +30,11 @@
     "static/media/delivery-location.svg": "/React-Codes/static/media/delivery-location.6199ce14a7a70a51a0de7c21fb24f92c.svg",
     "static/media/deliveryman-with-pizza.svg": "/React-Codes/static/media/deliveryman-with-pizza.6ca7a4da2bc7594113008472be549caf.svg",
     "index.html": "/React-Codes/index.html",
-    "main.cfd378c5.css.map": "/React-Codes/static/css/main.cfd378c5.css.map",
-    "main.f99d300f.js.map": "/React-Codes/static/js/main.f99d300f.js.map"
+    "main.922657dd.css.map": "/React-Codes/static/css/main.922657dd.css.map",
+    "main.2a36ba5b.js.map": "/React-Codes/static/js/main.2a36ba5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfd378c5.css",
-    "static/js/main.f99d300f.js"
+    "static/css/main.922657dd.css",
+    "static/js/main.2a36ba5b.js"
   ]
 }
